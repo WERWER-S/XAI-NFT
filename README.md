@@ -1,2 +1,2 @@
 # XAI-NFT
-Mint ndt on XAI
+Mint nft on XAI
